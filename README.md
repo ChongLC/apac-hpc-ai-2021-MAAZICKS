@@ -22,7 +22,7 @@ Objective:
 `module load {gromacs-package-PATH}`
 
 **Step 2: Run MD** <br>
-`mpirun -np {}...` 
+`mpirun -np {number of processors available} mdrun_mpi -s {input file} -v -noconfout -resethway -nsteps {number of steps} -ntomp {number of omp threads} -gcom {numbers before communcation phases} -nstlist {numbers before list converging}`
 
 ### Output
 Please refer to the [HPC-GROMACS](https://github.com/ChongLC/apac-hpc-ai-2021-MAAZICKS/tree/main/HPC-GROMACS) folder.
@@ -33,9 +33,9 @@ Please refer to the [HPC-GROMACS](https://github.com/ChongLC/apac-hpc-ai-2021-MA
 ---
 ## Team members
 [Li Chuin Chong](https://github.com/ChongLC) (Team Lead), Bezmialem Vakıf Universty <br>
-Jeremias Ivan <br>
-[Muhammad Zainul Arifin Nasution](https://github.com/ZainulArifin1) <br>
-Stefanus Bernard <br>
+Jeremias Ivan, Indonesia International Institute for Life Sciences <br>
+[Muhammad Zainul Arifin Nasution](https://github.com/ZainulArifin1), Indonesia International Institute for Life Sciences <br>
+Stefanus Bernard, Indonesia International Institute for Life Sciences <br>
 Aakib Bin Nesar <br>
 [Eo Yeo Keat](https://github.com/yeokeat), University Putra Malaysia
 
