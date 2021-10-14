@@ -1,0 +1,14 @@
+#!/bin/bash
+#PBS -q normal
+#PBS -l select=2:ncpus=24:mem=96G:mpiprocs=24:ompthreads=1
+#PBS -l walltime=23:00:00
+#PBS -N gromacs
+#PBS -P 50000028
+
+module load gromacs/2018.2/gcc493/impi
+cd ~/scratch/GROMACS/stmv/final_stmv
+
+#mdrun
+mpirun -np 24 mdrun_mpi -s stmv.tpr -v -noconfout -resethway -nsteps 100000 -ntomp 1 -gcom 20 -nstlist 20
+
+end;
