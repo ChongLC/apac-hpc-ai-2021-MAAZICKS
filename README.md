@@ -32,11 +32,13 @@ Please refer to the [HPC-GROMACS](https://github.com/ChongLC/apac-hpc-ai-2021-MA
 
 ---
 ## Team members
-[Li Chuin Chong](https://github.com/ChongLC) (Team Lead), Bezmialem Vakıf Universty, Turkey <br>
-Kenneth Ban Hon Kim (Advisor), National University of Singapore <br>
-Ayesha Fatima (Advisor), Bezmialem Vakıf Universty, Turkey <br>
+[Li Chuin Chong](https://github.com/ChongLC) (Team Lead), Bezmialem Vakıf Universty <br>
 Jeremias Ivan <br>
 [Muhammad Zainul Arifin Nasution](https://github.com/ZainulArifin1) <br>
 Stefanus Bernard <br>
 Aakib Bin Nesar <br>
 [Eo Yeo Keat](https://github.com/yeokeat), University Putra Malaysia
+
+## Advisors
+Kenneth Ban Hon Kim (Advisor), National University of Singapore <br>
+Ayesha Fatima (Advisor), Bezmialem Vakıf Universty <br>
