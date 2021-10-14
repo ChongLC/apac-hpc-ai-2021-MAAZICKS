@@ -19,7 +19,7 @@ Objective:
   ```
 
 ### Methodology 
-**Step 1: Load GROMACS**
+**Step 1: Load GROMACS** <br>
 module load {gromacs-package-PATH}
 ```
 module load gromacs/2018.2/gcc493/impi
