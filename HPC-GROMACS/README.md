@@ -1,6 +1,10 @@
 ## Task 1 
 High-Performance Computing – **GROMACS** (GROningen MAchine for Chemical Simulations) <br>
-Objective: 
+
+### Goal: 
+- [ ] Explain how Gromacs was configured, compiled and deployed Makefile <br> Note: As the NSCC server has GROMACS, we directly used that via `module load` command. 
+- [x] Showcase the ways on running the MD 
+- [x] Optimise the performance (ns/day) and wall time (s)
 
 ### Input file
 * lignocellulose-tf
