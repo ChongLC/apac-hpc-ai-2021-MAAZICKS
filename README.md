@@ -35,10 +35,10 @@ Please refer to the [HPC-GROMACS](https://github.com/ChongLC/apac-hpc-ai-2021-MA
 [Li Chuin Chong](https://github.com/ChongLC) (Team Lead), Bezmialem Vakıf Universty <br>
 Jeremias Ivan, Indonesia International Institute for Life Sciences <br>
 [Muhammad Zainul Arifin Nasution](https://github.com/ZainulArifin1), Indonesia International Institute for Life Sciences <br>
-Stefanus Bernard, Indonesia International Institute for Life Sciences <br>
+[Stefanus Bernard](https://github.com/Gatchmon), Indonesia International Institute for Life Sciences <br>
 Aakib Bin Nesar <br>
 [Eo Yeo Keat](https://github.com/yeokeat), University Putra Malaysia
 
 ## Advisors
 Kenneth Ban Hon Kim (Advisor), National University of Singapore <br>
-Ayesha Fatima (Advisor), Bezmialem Vakıf Universty <br>
+[Ayesha Fatima](https://github.com/ayeshafatma) (Advisor), Bezmialem Vakıf Universty <br>
