@@ -44,5 +44,5 @@ Aakib Bin Nesar <br>
 [Eo Yeo Keat](https://github.com/yeokeat), University Putra Malaysia
 
 ## Advisors
-Kenneth Ban Hon Kim (Advisor), National University of Singapore <br>
+[Kenneth Ban Hon Kim](https://github.com/kennethban) (Advisor), National University of Singapore <br>
 [Ayesha Fatima](https://github.com/ayeshafatma) (Advisor), Bezmialem Vakıf Universty <br>
