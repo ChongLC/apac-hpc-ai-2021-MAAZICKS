@@ -6,7 +6,7 @@ This repository is particularly for the documentation of 2021 APAC HPC-AI Compet
 High-Performance Computing – **GROMACS** (GROningen MAchine for Chemical Simulations)
 
 ### Goal: 
-- [ ] Explain how Gromacs was configured, compiled and deployed Makefile. 
+- [ ] Explain how Gromacs was configured, compiled and deployed Makefile
 - [ ] Showcase the ways on running the MD 
 - [ ] Optimise the performance (ns/day) and wall time (s)
 
