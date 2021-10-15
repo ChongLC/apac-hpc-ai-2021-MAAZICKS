@@ -7,7 +7,7 @@ High-Performance Computing – **GROMACS** (GROningen MAchine for Chemical Simul
 - [x] Optimise the performance (ns/day) and wall time (s)
 
 ### Input file
-* lignocellulose-tf
+* [lignocellulose-tf](https://github.com/ChongLC/apac-hpc-ai-2021-MAAZICKS/blob/main/HPC-GROMACS/lignocellulose-rf/lignocellulose-rf.zip)
 * stmv
 
 ### Methodology 
