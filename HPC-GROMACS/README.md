@@ -12,11 +12,20 @@ High-Performance Computing – **GROMACS** (GROningen MAchine for Chemical Simul
 
 ### Methodology 
 **Step 1: Load GROMACS** <br>
+GROMACS v2018 was applied herein. 
 ```
 module load gromacs/2018.2/gcc493/impi
 ```
 
 **Step 2: Run MD** <br> 
+Normal MD code:
+```
+# for lignocellulose-tf
+mpirun -np 24 mdrun_mpi -s lignocellulose-rf.tpr -v -noconfout -resethway -nsteps 100000 -ntomp 1
+```
+To improve the performance, we have added two parameters: gcom and nstlist. 
+
+Optimised MD code: 
 ```
 # for lignocellulose-tf
 mpirun -np 24 mdrun_mpi -s lignocellulose-rf.tpr -v -noconfout -resethway -nsteps 100000 -ntomp 1 -gcom 30 -nstlist 30
